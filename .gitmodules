@@ -1,0 +1,3 @@
+[submodule "submodules/adabot"]
+	path = submodules/adabot
+	url = https://github.com/adafruit/adabot.git
